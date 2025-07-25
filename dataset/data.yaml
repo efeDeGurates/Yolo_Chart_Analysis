@@ -1,0 +1,12 @@
+train: images/train
+val: images/val
+
+nc: 17
+names: ['Bearish- 3 Black Crows', 'Bearish- 3 Line Strike', 'Bearish- Abandoned Baby', 'Bearish- Engulfing', 'Bearish- Evening Star Doji', 'Bearish- Kicker', 'Bearish- Shooting Star', 'Bearish- Tweezer Top', 'Bullish- 3 Line Strike', 'Bullish- 3 White Soldiers', 'Bullish- Abandoned Baby', 'Bullish- Engulfing', 'Bullish- Hammer', 'Bullish- Inverted Hammer', 'Bullish- Kicker', 'Bullish- Morning Star Doji', 'Bullish- Tweezer Bottom']
+
+roboflow:
+  workspace: YoloChart
+  project: YoloChartProject
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/YoloChart/YoloChartProject/dataset/1

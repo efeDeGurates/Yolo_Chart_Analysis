@@ -26,7 +26,7 @@ and identifies stock-related visual elements. It is built using Python and runs 
    ```
 3. Run the main file:
    ```bash
-   python main.py
+   python runner.py
    ```
 
 ## Dataset License

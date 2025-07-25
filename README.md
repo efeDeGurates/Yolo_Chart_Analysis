@@ -39,4 +39,8 @@ The dataset is licensed under the **CC BY 4.0** license.
 ## Notes
 
 - Since the script captures your screen, your antivirus (e.g., Windows Defender) may prompt for permission.
-- Ensure you're not running screen-sensitive apps in the background for best performance.
+
+## Disclaimer
+
+This project is strictly for educational and experimental purposes.
+It is not intended as financial advice or a tool for making trading decisions.
